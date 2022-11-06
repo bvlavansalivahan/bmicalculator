@@ -1,0 +1,10 @@
+.box {
+    margin-top: 120px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 50px;
+    background-color: rgb(191, 201, 201);
+}
+p {
+    color: red;
+}
